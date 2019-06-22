@@ -1,0 +1,2 @@
+# thunderega
+Tugas Softskill
